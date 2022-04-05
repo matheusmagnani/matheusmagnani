@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matheusmagnani 
 - 👀 I’m interested in  JavaScript
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Qualquer projeto
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach mim: email- mr_matheusmagnani@gmail.com
 
 <!---
